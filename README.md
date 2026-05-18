@@ -1,4 +1,7 @@
-# Countdown: Gray Heaven
+<p align="center">
+  <img src="ss/banner.png" alt="Bridgo Banner" width="100%">
+</p>
+<h1 align="center">Countdown - Grayheaven</h1>
 
 ## 🎮 Overview
 
